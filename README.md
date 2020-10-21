@@ -25,3 +25,4 @@
 * [Part 6: 演算法趨勢篇](06.md)
 * [Part 7: 酸民文化篇](07.md)
 * [Part 8: 收益篇](08.md)
+* [總結](conclusion.md)
